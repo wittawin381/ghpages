@@ -21,10 +21,10 @@
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo-l {
-    animation: App-logo-spin-l infinite 0.2s linear;
+    animation: App-logo-spin-l infinite 1s linear;
   }
   .App-logo-r{
-    animation: App-logo-spin-r infinite 0.2s linear;
+    animation: App-logo-spin-r infinite 1s linear;
   }
 }
 
