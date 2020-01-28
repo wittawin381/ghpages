@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ghpages/static/css/main.a514f42f.chunk.css",
+    "main.css": "/ghpages/static/css/main.ac320364.chunk.css",
     "main.js": "/ghpages/static/js/main.43396c95.chunk.js",
     "main.js.map": "/ghpages/static/js/main.43396c95.chunk.js.map",
     "runtime-main.js": "/ghpages/static/js/runtime-main.7e797ff8.js",
@@ -8,15 +8,15 @@
     "static/js/2.8be025f9.chunk.js": "/ghpages/static/js/2.8be025f9.chunk.js",
     "static/js/2.8be025f9.chunk.js.map": "/ghpages/static/js/2.8be025f9.chunk.js.map",
     "index.html": "/ghpages/index.html",
-    "precache-manifest.7f0b7619ab2c854b9a8ca7488be13d6c.js": "/ghpages/precache-manifest.7f0b7619ab2c854b9a8ca7488be13d6c.js",
+    "precache-manifest.4e59567ee0f897036003c63f57225cb9.js": "/ghpages/precache-manifest.4e59567ee0f897036003c63f57225cb9.js",
     "service-worker.js": "/ghpages/service-worker.js",
-    "static/css/main.a514f42f.chunk.css.map": "/ghpages/static/css/main.a514f42f.chunk.css.map",
+    "static/css/main.ac320364.chunk.css.map": "/ghpages/static/css/main.ac320364.chunk.css.map",
     "static/media/IMG_0485.jpg": "/ghpages/static/media/IMG_0485.f5463591.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e797ff8.js",
     "static/js/2.8be025f9.chunk.js",
-    "static/css/main.a514f42f.chunk.css",
+    "static/css/main.ac320364.chunk.css",
     "static/js/main.43396c95.chunk.js"
   ]
 }
